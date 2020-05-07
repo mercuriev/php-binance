@@ -22,6 +22,7 @@ final class BinanceApi extends BasicEnum
     const ORDER_STATUS_EXPIRED = 'EXPIRED';
 
     const ORDER_TYPE_LIMIT = 'LIMIT';
+    const ORDER_TYPE_LIMIT_MAKER = 'LIMIT_MAKER';
     const ORDER_TYPE_MARKET = 'MARKET';
 
     const SIDE_ORDER_BUY = 'BUY';
